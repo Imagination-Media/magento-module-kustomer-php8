@@ -2,7 +2,7 @@
 This extension allows publication of Adobe Commerce events to Kustomer. It provides a `KustomerEventObserver` class that you can extend to publish events to your Kustomer account.
 
 ## Installation
-1. `$ composer require kustomer/kustomer-integration` from your Adobe Commerce project root
+1. `$ composer require kustomer/kustomer-integration-php8` from your Adobe Commerce project root
 2. `$ bin/magento module:enable Kustomer_KustomerIntegration --clear-static-content`
 3. `$ bin/magento setup:upgrade`
 4. `$ bin/magento setup:di:compile`

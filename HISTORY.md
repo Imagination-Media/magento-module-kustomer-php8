@@ -1,5 +1,10 @@
 ### Kustomer Integration for Magento Update History
 
+#### 1.1.11.1
+
+- Updates `composer.json` php dependency to `~8.0.0` - `~8.1.0`
+- Updates package name to `kustomer/kustomer-integration-php8`
+
 #### 1.1.6
 
 - Updates `composer.json` php dependency to `~7.2.0` - `~7.4.0`
